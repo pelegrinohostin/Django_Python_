@@ -4,3 +4,5 @@
 # Reglas personalizadas de mi proyecto
 tienda/
 .vscode/
+**/__pycache__/
+*.pyc
